@@ -7,6 +7,6 @@
 <title>Home Page</title>
 </head>
 <body>
-<h2>This is jsp application home page........!</h2>
+<p>This is jsp application home page........!</p>>
 </body>
 </html>
